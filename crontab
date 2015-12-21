@@ -1,0 +1,1 @@
+* * * * * root sh /auto_reload.sh >> /var/log/cron.log 2>&1
